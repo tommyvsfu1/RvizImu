@@ -1,6 +1,6 @@
 # RvizImu
 introduce some ways to visualize sensor_msgs/Imu.msg in RViz
->it should be put in /catkin_ws/src[color=04ffre]
+>it should be put in /catkin_ws/src
 
 ## environment
 built in ros-indigo , ubuntu14.04 (not virtual machine) 
